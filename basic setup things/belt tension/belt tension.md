@@ -10,4 +10,4 @@
 
 Grab hold of your trusty ruler or other device and measure 150mm of belt as shown in the picture below
 
-![image](basic setup things/belt tension/belt_lenght_measure_2.4.jpg)
+![image](basicsetupthings/belttension/belt_lenght_measure_2.4.jpg)
