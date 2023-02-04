@@ -10,4 +10,4 @@
 
 Grab hold of your trusty ruler or other device and measure 150mm of belt as shown in the picture below
 
-![image](https://github.com/BlakesMakes/Voron-Things/blob/1aabe7b4592b2092732005562a89c43f31f2878b/basic-setup-things/belt-tension/belt_length_0.2.jpg)
+![image](https://github.com/BlakesMakes/Voron-Things/blob/4c0c6cf178ffda17f97f41f209ccd3a39725cdf5/basic-setup-things/belt-tension/belt_length_measure_2.4.jpg)
