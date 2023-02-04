@@ -1,6 +1,6 @@
 # How to tune belt tension on your voron
 
-## Equiptment needed
+## Equipment needed
 
 1. A phone to run a spectum analyzer app
 2. A ruler or some sort of device used to measure distance
@@ -10,4 +10,4 @@
 
 Grab hold of your trusty ruler or other device and measure 150mm of belt as shown in the picture below
 
-![image](basicsetupthings/belttension/belt_lenght_measure_2.4.jpg)
+![image]()
