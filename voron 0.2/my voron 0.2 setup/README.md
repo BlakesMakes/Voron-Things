@@ -34,7 +34,7 @@ I sourced mine from here: https://www.3dlabtech.ca/product/rainbow-on-a-matchsti
 
 ## Youmetong Rail on X
 
-I sourced mine from here (Ask for Z1 preload): https://www.aliexpress.com/item/1005001491195605.html
+I sourced mine from here (Asked for Z1 preload): https://www.aliexpress.com/item/1005001491195605.html
 
 
 
