@@ -1,5 +1,5 @@
 
-# My voron 2.4r2 350mm mod/upgrade list
+# My voron 2.4r2 350mm mods/upgrades
 
 ## Rapido UHF mod by bythorsthunder
 
