@@ -11,7 +11,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunde
 I got em here https://www.3dlabtech.ca/product/titanium-backers-for-voron-2-and-trident/
 
 
-## Hartk Pin mod by Hartk
+## Hartk Pin mod by, well, Hartk
 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod
 
