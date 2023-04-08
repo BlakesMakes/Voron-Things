@@ -22,9 +22,8 @@ https://www.3dlabtech.ca/product/hartk-pin-mod/
 
 https://www.aliexpress.com/item/1005005133962765.html
 
-https://www.aliexpress.com/item/1005004243206192.html
-or
-https://www.aliexpress.com/item/1005002843997801.html
+Btt U2C as UTOC https://www.aliexpress.com/item/1005004243206192.html
+or cheaper option https://www.aliexpress.com/item/1005002843997801.html
 
 
 ## Youmetong Rail on X
