@@ -20,11 +20,11 @@ https://www.3dlabtech.ca/product/hartk-pin-mod/
 
 ## bigtreetech Sb2209 CANbus toolhead board
 
-https://www.aliexpress.com/item/1005005133962765.html?spm=a2g0o.order_detail.order_detail_item.3.5b20f19cuNwMjO
+https://www.aliexpress.com/item/1005005133962765.html
 
-https://www.aliexpress.com/item/1005004243206192.html?spm=a2g0o.order_detail.order_detail_item.5.5b20f19cuNwMjO
+https://www.aliexpress.com/item/1005004243206192.html
 or
-https://www.aliexpress.com/item/1005002843997801.html?spm=a2g0o.order_list.order_list_main.5.16c61802hCpo96
+https://www.aliexpress.com/item/1005002843997801.html
 
 
 ## Youmetong Rail on X
