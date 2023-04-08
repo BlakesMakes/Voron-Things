@@ -1,6 +1,6 @@
 
 
-# My voron 2.4r2 350mm mods/upgrades
+# My voron 0.2 mods/upgrades
 
 
 ## Zero Panels by zruncho3d
