@@ -33,4 +33,9 @@ I sourced mine from here (Ask for Z2 preload): https://www.aliexpress.com/item/1
 
 ## Disco Sticks
 
+Github: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick
 I sourced mine from here: https://www.3dlabtech.ca/product/disco-on-a-stick/
+
+## Bowden tube PTFE guide by GalvanicGlaze
+
+Github: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
