@@ -29,4 +29,4 @@ https://www.aliexpress.com/item/1005002843997801.html
 
 ## Youmetong Rail on X
 
-https://www.aliexpress.com/item/1005001463833841.html?spm=a2g0o.order_list.order_list_main.11.16c61802hCpo96
+https://www.aliexpress.com/item/1005001463833841.html
