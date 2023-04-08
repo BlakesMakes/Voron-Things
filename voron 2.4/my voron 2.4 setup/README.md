@@ -18,7 +18,7 @@ Github: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk
 I sourced mine from here: https://www.3dlabtech.ca/product/hartk-pin-mod/
 
 
-## bigtreetech Sb2209 CANbus toolhead
+## Bigtreetech Sb2209 CANbus toolhead
 
 Btt Sb2209: https://www.aliexpress.com/item/1005005133962765.html
 
