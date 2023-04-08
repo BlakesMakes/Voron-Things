@@ -2,4 +2,4 @@
 
 These have not yet been polished :)
 
-## These will not necessarily work on your printer. I reccomend you only use them as references.
+## These will not necessarily work on your printer. I recommend you only use them as references.
