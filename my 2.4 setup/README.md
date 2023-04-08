@@ -1,7 +1,7 @@
 
 # My voron 2.4r2 350mm mod/upgrade list
 
-## Rapido UHF by bythorsthunder
+## Rapido UHF mod by bythorsthunder
 
 Github: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf
 
@@ -18,7 +18,7 @@ Github: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk
 I sourced mine from here: https://www.3dlabtech.ca/product/hartk-pin-mod/
 
 
-## bigtreetech Sb2209 CANbus toolhead board
+## bigtreetech Sb2209 CANbus toolhead
 
 Btt Sb2209: https://www.aliexpress.com/item/1005005133962765.html
 
