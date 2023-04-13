@@ -11,4 +11,4 @@ I needed an abrasives hotend and did not want to use my rapido uhf as the heatbr
 
 This is a direct drop in replacement for the rapido uhf hotend mount. It puts the nozzle right where the rapido nozzle would be and uses the same cooling ducts. It should work with a regular volcano heater block but I have not tested this. If anybody wants to try it please let me know the results!
 
-##Enjoy!
+## Enjoy!
