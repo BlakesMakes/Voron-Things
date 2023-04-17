@@ -1,5 +1,5 @@
 
-# My voron 2.4r2 350mm mods/upgrades
+# My voron 2.4r2 350mm mods/upgrades/software
 
 
 ## Rapido UHF mod by bythorsthunder
@@ -54,3 +54,10 @@ Github: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%2
 ## Nevermore V5
 
 Github: https://github.com/nevermore3d/Nevermore_Micro
+
+
+## KAMP
+
+Klipper Adaptive Meshing and Purging
+
+Github: https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main/Configuration
