@@ -5,3 +5,9 @@ The M5 screw used to hold the arm to the mount kept backing because it was rubbi
 
 
 ![image](https://github.com/BlakesMakes/Voron-Things/blob/main/voron%202.4/2.4%20mods/PTFE%20tube%20arm/images/tube_arm_mount.jpg)
+
+
+![image](https://github.com/BlakesMakes/Voron-Things/blob/main/voron%202.4/2.4%20mods/PTFE%20tube%20arm/images/tube_arm_no_bearing.jpg)
+
+
+![image](https://github.com/BlakesMakes/Voron-Things/blob/main/voron%202.4/2.4%20mods/PTFE%20tube%20arm/images/tube_arm_with_bearing.jpg)
