@@ -7,4 +7,6 @@
 5. Cool the nozzle down to 100 for nylon and most cleaning fillaments or 50 for pla while continuint to push filament through until it does not extrude without a fight.
 6. Next, heat the nozzle to 170 and pull on the fillament. It should release and pull free and with it any junk on the nozzle.
 
+
+### Hard to see but there is a little gunk on that tip of filament.
 ![image](https://github.com/BlakesMakes/Voron-Things/blob/main/Miscellaneous%20Guides/How%20to%20properly%20execute%20a%20cold%20pull/picture.jpg)
