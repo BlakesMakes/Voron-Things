@@ -4,5 +4,5 @@
 1. Grab your favorite roll of nylon, cleaning fillament, or pla. These will work best. (I listed them from most effective to works fine)
 2. Preheat your nozzle to the temperature of the fillament you were last printing. I print abs at 260 but dont want to cook my pla so I will run 240 which should easily melt the abs left in the nozzle.
 3. Load the fillament you chose and (try to) extrude some by hand.
-4. Cool the nozzle down to 100 for nylon and most cleaning fillaments or 50 for pla.
-5. Next, heat the nozzle to 170 and pull on the fillament. It should release and pull free and with it any junk on the nozzle.
+5. Cool the nozzle down to 100 for nylon and most cleaning fillaments or 50 for pla while continuint to push filamen through until it does not extrude without a fight.
+6. Next, heat the nozzle to 170 and pull on the fillament. It should release and pull free and with it any junk on the nozzle.
