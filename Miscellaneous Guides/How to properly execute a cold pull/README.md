@@ -6,3 +6,5 @@
 3. Load the fillament you chose and (try to) extrude some by hand.
 5. Cool the nozzle down to 100 for nylon and most cleaning fillaments or 50 for pla while continuint to push filament through until it does not extrude without a fight.
 6. Next, heat the nozzle to 170 and pull on the fillament. It should release and pull free and with it any junk on the nozzle.
+
+![image]()
