@@ -47,7 +47,7 @@ I sourced mine from here: https://www.3dlabtech.ca/product/disco-on-a-stick/
 
 ## Bowden tube PTFE guide by GalvanicGlaze and my own remix
 
-Github: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
+Github: https://github.com/BlakesMakes/Voron-Things/tree/main/voron%202.4/2.4%20mods/PTFE%20tube%20arm)
 
 
 
