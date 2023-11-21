@@ -24,7 +24,7 @@ I sourced mine from here: https://www.3dlabtech.ca/product/hartk-pin-mod/
 
 ## Bigtreetech ebb36 CANbus toolhead board
 
-Btt ebb369: 
+Btt ebb369: https://www.aliexpress.com/item/1005004243206192.html
 
 Btt U2C as UTOC: https://www.aliexpress.com/item/1005004243206192.html
 or cheaper option: https://www.aliexpress.com/item/1005002843997801.html
