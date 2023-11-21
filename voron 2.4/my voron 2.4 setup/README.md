@@ -51,7 +51,7 @@ Github: https://github.com/BlakesMakes/Voron-Things/tree/main/voron%202.4/2.4%20
 
 
 
-## Nevermore V5
+## Nevermore V6 by 0ndsk4
 
 Github: https://github.com/nevermore3d/Nevermore_Micro
 
@@ -61,6 +61,7 @@ Github: https://github.com/nevermore3d/Nevermore_Micro
 Klipper Adaptive Meshing and Purging
 
 Github: https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main/Configuration
+
 
 ## Klippain Shaketune by Frix-x
 
