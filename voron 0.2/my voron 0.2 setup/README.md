@@ -41,3 +41,7 @@ I sourced mine from here (Asked for Z1 preload): https://www.aliexpress.com/item
 ## V0 umbilical collet by maple leaf makers
 
 Github: https://github.com/MapleLeafMakers/V0_Umbilical_Collar
+
+## V0 upper rear bowden inlet by maple leaf makers
+
+Github: https://github.com/MapleLeafMakers/V0_Upper_Rear_Bowden_Inlet
