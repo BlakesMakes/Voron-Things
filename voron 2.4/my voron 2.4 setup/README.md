@@ -56,8 +56,12 @@ Github: https://github.com/BlakesMakes/Voron-Things/tree/main/voron%202.4/2.4%20
 Github: https://github.com/nevermore3d/Nevermore_Micro
 
 
-## KAMP
+## KAMP by kyleisah
 
 Klipper Adaptive Meshing and Purging
 
 Github: https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main/Configuration
+
+## Klippain Shaketune by Frix-x
+
+Github: https://github.com/Frix-x/klippain-shaketune
