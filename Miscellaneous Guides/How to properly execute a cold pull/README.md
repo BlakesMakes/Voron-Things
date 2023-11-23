@@ -9,6 +9,6 @@
 
 
 ### A successful cold pull done on my revo.
-![image](https://github.com/BlakesMakes/Voron-Things/blob/main/Miscellaneous%20Guides/How%20to%20properly%20execute%20a%20cold%20pull/picture.jpg | =250x250)
+![](https://github.com/BlakesMakes/Voron-Things/blob/main/Miscellaneous%20Guides/How%20to%20properly%20execute%20a%20cold%20pull/picture.jpg | =250x250)
 ### A cold pull done on my rapido and cht:
 ![image](https://github.com/BlakesMakes/Voron-Things/blob/main/Miscellaneous%20Guides/How%20to%20properly%20execute%20a%20cold%20pull/CHT_cold_pull.jpg)
